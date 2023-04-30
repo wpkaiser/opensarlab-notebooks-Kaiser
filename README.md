@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/wpkaiser / opensarlab-notebooks-Kaiser/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/wpkaiser/opensarlab-notebooks-Kaiser/HEAD)
 
 # ASF Jupyter Notebooks
 
