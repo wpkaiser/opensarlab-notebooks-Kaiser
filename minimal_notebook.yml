@@ -4,3 +4,4 @@ channels:
 dependencies:
   - ipympl
   - ipywidgets<8.0.0
+  - url_widget
